@@ -31,7 +31,7 @@ public void setHp(int hp ){
     if(hp>=0){
         this.hp = hp;
     }    
-public int getattackPower(){
+public int getAttackPower(){
     return attackPower;
 }
 public void setAttackPower(int attackPower){
